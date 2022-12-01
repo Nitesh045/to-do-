@@ -1,0 +1,25 @@
+
+#heading{
+    background-image: linear-gradient(to right, rgb(32, 39, 181),rgb(151, 22, 187));
+}
+#input{
+    width: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+    height: 40px;
+
+}
+#your-list {
+    width: 400x;
+    background-image: linear-gradient(to right, red , yellow);
+   
+    margin-top: 30px;
+}
+.paragraph-style{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: aquamarine;
+    list-style: none;
+    margin-top: 10px;
+}
+
